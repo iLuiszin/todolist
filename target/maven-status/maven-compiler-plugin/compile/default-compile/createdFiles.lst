@@ -1,0 +1,10 @@
+br\com\iluiszin\todolist\errors\ExceptionHandlerController.class
+br\com\iluiszin\todolist\task\TaskModel.class
+br\com\iluiszin\todolist\TodolistApplication.class
+br\com\iluiszin\todolist\user\UserModel.class
+br\com\iluiszin\todolist\task\TaskController.class
+br\com\iluiszin\todolist\task\ITaskRepository.class
+br\com\iluiszin\todolist\user\IUserRepository.class
+br\com\iluiszin\todolist\filter\FilterTaskAuth.class
+br\com\iluiszin\todolist\utils\Utils.class
+br\com\iluiszin\todolist\user\UserController.class
