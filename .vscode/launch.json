@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TodolistApplication",
+            "request": "launch",
+            "mainClass": "br.com.iluiszin.todolist.TodolistApplication",
+            "projectName": "todolist"
+        },
+        {
+            "type": "java",
+            "name": "TodolistApplication",
+            "request": "launch",
+            "mainClass": "com.iluiszin.todolist.TodolistApplication",
+            "projectName": "todolist"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-TodolistApplication<todolist>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.iluiszin.todolist.todolist.TodolistApplication",
+            "projectName": "todolist",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
